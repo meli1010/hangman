@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d0d5a54-41b7-4c9f-8531-90b0328fb75a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FavoriteColors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FavoriteColors/src/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FavoriteColors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FavoriteColors/src/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FavoriteColors/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/GetIndex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/GetIndex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/GetMultiColors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryInvoice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryInvoice/src/GroceryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryInvoice/src/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryInvoice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParsingStringsExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortLetters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortLetters/src/SortLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/ToDoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApgNetworking" beforeDir="false" afterPath="$PROJECT_DIR$/../ApgNetworking" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BullhornSecurity" beforeDir="false" afterPath="$PROJECT_DIR$/../BullhornSecurity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompletionActivityPair/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompletionActivityPair/src/BlackJack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzSpring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FridayChallenges/WeekFiveFridayProject" beforeDir="false" afterPath="$PROJECT_DIR$/../FridayChallenges/WeekFiveFridayProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HarrisonCollege" beforeDir="false" afterPath="$PROJECT_DIR$/../HarrisonCollege" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/java/com/example/demo/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/java/com/example/demo/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/java/com/example/demo/SpringEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/resources/templates/mailtemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/main/resources/templates/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldMail/src/test/java/com/example/demo/SpringEmailTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/main/java/com/example/demo/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/main/java/com/example/demo/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/main/java/com/example/demo/Lesson33Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/main/resources/templates/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33/src/test/java/com/example/demo/Lesson33ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/java/com/example/demo/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/java/com/example/demo/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/java/com/example/demo/Lesson335Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/resources/templates/mailtemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/main/resources/templates/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_5/src/test/java/com/example/demo/Lesson335ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson33_Exercise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LisTings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecurityBones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAttendance/src/main/java/com/example/demo/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendance/src/main/java/com/example/demo/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAttendance/src/main/java/com/example/demo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendance/src/main/java/com/example/demo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAttendance/src/main/java/com/example/demo/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendance/src/main/java/com/example/demo/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAttendance/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendance/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAttendance/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendance/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentAttendance/src/main/resources/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendance/src/main/resources/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/scripts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/scripts.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/models/tblClassroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/models/tblClassroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/models/tblCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/models/tblCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/models/tblSemester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/models/tblSemester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/CampusRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/CampusRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/ClassroomRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/ClassroomRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/CourseRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/CourseRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/SemesterRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/SemesterRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/repos/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/services/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/services/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/services/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/java/com/mc/bits/services/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/campuses.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/campuses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/classroomdetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/classroomdetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/classroomform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/classroomform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/classrooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/classrooms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/coursedetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/coursedetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/courseform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/courseform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/responses.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/responses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/semesterform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/semesterform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/semesters.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/semesters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/thankyou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/userform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/userform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachingAvailability/src/main/resources/templates/users.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1120228260">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3783" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3783" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-280">
+              <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hangman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538676974663" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Hangman" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d0d5a54-41b7-4c9f-8531-90b0328fb75a" name="Default Changelist" comment="" />
+      <created>1538667536835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538667536835</updated>
+      <workItem from="1538667538253" duration="7128000" />
+      <workItem from="1538701781789" duration="1906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9034000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.51902837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5204263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
